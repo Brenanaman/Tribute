@@ -1,0 +1,124 @@
+html {
+background-image: url(https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg);
+background-size: 100%;
+}
+
+body {
+    background-color: rgba(255,255,255,0.7);
+    /* margin-left: 60px;
+    margin-right: 60px; */
+}
+h1, h2, ol, p {
+    margin: auto;
+    padding: 20px;
+}
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+h2 {
+    text-align: normal;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    border: red, 2px, solid;
+    width: 11%;
+    margin-right: 65%;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: red, 2px, solid;
+    width: 50%;
+    padding: 6px;
+}
+p {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    width: 50%;
+    font-size: 18px;
+}
+
+ol {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    width: 50%;
+    font-size: 18px;
+    color: blue;
+    margin-left: 25%;
+}
+
+.list {
+    padding-top: -20px;
+    padding-bottom: 16px;
+}
+
+#quote {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 18px;
+}
+
+#translation {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    margin-top: -35px;
+    color: blue;
+}
+#translation2 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    margin-top: -35px;
+}
+.center {
+    text-align: center;
+}
+
+hr {
+    margin-left: 270px;
+    margin-right: 270px;
+    border-color: red;
+}
+#foot {
+    background-color: crimson;
+    Width: 100%;
+
+}
+
+.block {
+    background-color: white;
+    Width: 100%;
+    position: sticky;
+    top: 0;
+}
+#flag {
+    width: 40px;
+    display: inline-block;
+    border: hidden;
+    text-align:center;
+}
+#flag2 {
+    width: 40px;
+    display: inline-block;
+    border: hidden;
+    text-align:center;
+}
+
+.achievements {
+    background-color:white;
+    padding-top: 1%;
+    padding-bottom: 10%;
+}
